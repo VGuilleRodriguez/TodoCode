@@ -1,1 +1,3 @@
 practicando git mediante comandos
+
+repasando lo aprendido en la clase anterior
